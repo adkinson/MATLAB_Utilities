@@ -10,12 +10,12 @@ function ipAddresses = getIPAddressesFromPortNames(networkPortNames)
 % ipAddresses = getIPAddressesFromPortNames(networkPortNames)
 %
 % INPUT
-% networkPortNames - a character or cell array of characters of the names
-%                    of the NIC ports
+% command - a character or cell array of characters of the names of the NIC
+%           ports
 %
 % OUTPUT
-% ipAddress - a cell array of IP addresses in the same order with respect
-%             to the networkPortNames
+% ipAddress - 
+%
 %
 % Author: Joshua Adkinson
 
