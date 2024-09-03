@@ -2,3 +2,6 @@ A collection of simple MATLAB functions for getting/setting Windows OS propertie
 
 ### Dependencies
 1. A MATLAB license with the Instrument Control Toolbox
+2. [NirCmd](https://www.nirsoft.net/utils/nircmd.html) - A command-line utility for controlling various Windows OS operations
+>[!IMPORTANT]
+>The correct downlowd link for NirCmd can be found at the bottom of the linked page
